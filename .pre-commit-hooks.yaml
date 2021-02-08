@@ -1,0 +1,5 @@
+-   id: flutter-dependency-validation
+    name: Pubspec.yaml dependencies validation
+    entry: run
+    language: script
+    files: 'pubspec.yaml'
