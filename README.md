@@ -1,0 +1,1 @@
+# dependency-validation-pre-commit
